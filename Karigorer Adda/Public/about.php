@@ -12,15 +12,14 @@
         <div class="row h-100 align-items-center py-5">
 
             <div class="col-lg-6">
-                <h1 class="display-4">About Havenly Beds</h1>
+                <h1 class="display-4">About Karigorer Adda</h1>
                 <p class="lead text-muted mb-0">
-                    At Havenly Beds, we know that getting a great night’s sleep makes us all happier and healthier.  But finding just the right bed for you can be daunting, so we’re on a mission to make it as easy as possible for you.
-                    We understand that buying a bed is a big investment, which is why try by all means to stock all the best brands that you love and trust. At Havenly Beds we try to provide you with a wide range of beds and many accessories for the bed.
+                    KARIGORER ADDA is an e-commerce platform where you can get all the beautiful handmade stuffs like various kinds of handloom sarees, huge range of home décor items, painting, masks, dolls and many more things straight from the house of rural artists and craftsmen all over West Bengal under one roof. From artists’ point of view, we are giving them a significant platform where they can showcase their creativity and sell those items. So what are you waiting for? Go and grab your favourite items from the desk. Give your daily life a tender, blissful touch of art and crafts❤️.
                 </p>
             </div>
 
             <div class="col-lg-6 d-none d-lg-block">
-                <img src="./images/logo.png" alt="" class="img-fluid">
+                <img src="./images/logo123.png" alt="" class="img-fluid">
             </div>
 
         </div>
@@ -33,7 +32,7 @@
             <div class="col-lg-6 order-2 order-lg-1"><i class="fa fa-bar-chart fa-2x mb-3 text-primary"></i>
                 <h2 class="font-weight-light">Our History</h2>
                 <p class="font-italic text-muted mb-4">
-                    Our experienced team has been operating for more than 10 years and are here to help you find the right product to suit your unique sleep needs and your budget. We stock beds, mattresses, bedroom furniture and accessories from our nationwide suppliers with quick delivery to all major city hubs and surrounding areas.
+                    Our experienced team has been operating for more than 2 years and are here to help you find the right product to suit your asthetic needs and your budget. We stock various handicraft products like, Terracotta, Dokra, Handlooms and many more from our handicraft makers with quick delivery to all major city hubs and surrounding areas.
                 </p>
             </div>
 
@@ -50,7 +49,7 @@
             <div class="col-lg-6"><i class="fa fa-leaf fa-2x mb-3 text-primary"></i>
                 <h2 class="font-weight-light">Way Forward</h2>
                 <p class="font-italic text-muted mb-4">
-                    At Havenly Beds, we believe that good health and sleep quality go hand-in-hand. With this in mind, we strive to ensure our customers get a good night’s sleep by offering a wide range of top-quality beds and mattresses in a variety of sizes and styles. We even offer speciality sizes and custom-made options.
+                    At Karigorer Adda, we believe that good products and consumers' ratings go hand-in-hand. With this in mind, we strive to ensure our customers get a fabulous product by offering a wide range of top-quality handicrafts  in a variety of colours and styles. We even offer speciality styles and custom-made options.
                 </p>
             </div>
         </div>
