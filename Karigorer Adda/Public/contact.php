@@ -84,7 +84,7 @@
             <div class="col-md-3 text-center">
                 <ul class="list-unstyled mb-0">
                     <li><i class="fa fa-map-marker-alt fa-2x"></i>
-                        <p>45 Woodbery Road Southern Surbs WC 7823 South Africa</p>
+                        <p>University of Engineering & Management, Kolkata</p>
                     </li>
 
                     <li><i class="fa fa-phone mt-4 fa-2x"></i>
@@ -92,7 +92,7 @@
                     </li>
 
                     <li><i class="fa fa-envelope mt-4 fa-2x"></i>
-                        <p>HavenlyBeds@gmail.com</p>
+                        <p>karigoreradda@gmail.com</p>
                     </li>
                 </ul>
             </div>
