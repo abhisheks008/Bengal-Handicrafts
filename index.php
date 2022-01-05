@@ -1,5 +1,5 @@
 <?php
-    require_once("../resources/config.php");
+    require_once("/resources/config.php");
 ?>
 <?php
     include(Front_End . DS . "headerguest.php");
