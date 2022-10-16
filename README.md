@@ -7,10 +7,10 @@
 
 
 <p align = 'justify'><br>
-<b>Bengal Handicrafts</b> will be a functional e-commerce platform which will provide the opportunity to the consumers as well as the manufacturers to grow in the market through the handicrafts products of West Bengal. We all know that, handicrafts products of Bengal, are in high demand in the world wise market, but due to lack of exposures neither the consumers are getting the products nor the makers are having the enthusism to produce much amount of products. Which caused the lack of connection between the consumers and makers and from that the price of the handicrafts products are increasing due to high demand and lack of manufacturing procedure. </p>
+<b>Bengal Handicrafts</b> will be a functional e-commerce platform which will provide the opportunity to the consumers as well as the manufacturers to grow in the market through the handicrafts products of West Bengal. We all know that, handicrafts products of Bengal, are in high demand in the world wide market, but due to lack of exposures neither the consumers are getting the products nor the makers are having the enthusiasm to produce much amount of products. Which caused the lack of connection between the consumers and makers and from that the price of the handicrafts products are increasing due to high demand and lack of manufacturing procedure. </p>
 
 
-  <p align = 'justify'>To solve this issue, we are a group of 6 people gathered together and created a platform which will solve this issue on a high. Nowadays we all know about the e-commerce platforms like, amazon, filpkart, sanpdeal, myntra, meesho (recently launched) and many more. But you have not seen any platfrm which will bring the handicrafts products in your laptops, computers or mobile's screen. That's why we are here, to launch the Karigorer Adda platform to bring the handicrafts products of your choice at your device's screens.</p>
+  <p align = 'justify'>To solve this issue, we are a group of 6 people gathered together and created a platform which will solve this issue on a high. Nowadays we all know about the e-commerce platforms like, amazon, filpkart, snapdeal, myntra, meesho (recently launched) and many more. But you have not seen any platfrm which will bring the handicrafts products in your laptops, computers or mobile's screen. That's why we are here, to launch the Karigorer Adda platform to bring the handicrafts products of your choice at your device's screens.</p>
   
   <h3> :yellow_circle: What are the products enlisted here? </h3>
   
